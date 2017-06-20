@@ -18,3 +18,6 @@ To create a list just put a minus in the beginning
 - b
 - c
 
+//italic?
+\? and now?
+\t is this a \t tab?
