@@ -1,0 +1,13 @@
+DNA.txt
+five_lines.txt
+genes.csv
+origin_of_species.txt
+redundant.txt
+three_lines.txt
+two_lines.txt
+unsorted_numbers.txt
+This file
+contains two lines.
+This file
+contains three
+lines.
